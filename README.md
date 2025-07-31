@@ -1,4 +1,4 @@
-<p align="center">Backend инженер с 2007 года. Go/Rust, DevOps, распределённые системы.</p>
+<h2 align="center">Backend инженер с 2007 года. Go/Rust, DevOps, распределённые системы.</h2>
 
 ---
 </br>
