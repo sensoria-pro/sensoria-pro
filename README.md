@@ -3,7 +3,7 @@
 
 ---
 
-<details /open>
+<details open>
 <summary>🇷🇺 Русский</summary>
 
 ### Обо мне
@@ -12,7 +12,7 @@
 ---> Сейчас изучаю **Rust**, интересуюсь блокчейном, ИИ и распределёнными системами.  
 Цель — создать международный tech-проект на стыке технологий будущего.
 
-**Технологии**: Go, Rust, PostgreSQL, NoSQL, Redis, Kafka, gRPC, Docker, K8s, CI/CD, Unix, Serverless, Cloud computing</br>
+**Технологии**: Go, Rust, PostgreSQL, NoSQL, Redis, ClickHouse, Kafka, gRPC, Docker, K8s, CI/CD, Unix, Serverless, Cloud computing</br>
 **Город**: Москва  
 **Спорт**: бег, бокс, бодибилдинг  
 **Читаю**: футурология, нейронаука, биоинженерия
@@ -29,7 +29,7 @@ Since 2018, I've fully transitioned to **Go**, **microservices**, **DevOps**, **
 Now learning **Rust**, researching blockchain, AI, and distributed systems.  
 My goal: to build a global tech product at the intersection of future technologies.
 
-**Tech stack**: Go, Rust, PostgreSQL, NoSQL, Redis, Kafka, gRPC, Docker, K8s, CI/CD, Unix, Serverless, Cloud computing  
+**Tech stack**: Go, Rust, PostgreSQL, NoSQL, Redis, ClickHouse, Kafka, gRPC, Docker, K8s, CI/CD, Unix, Serverless, Cloud computing  
 **Location**: Moscow  
 **Sports**: running, boxing, bodybuilding  
 **Reading**: futurism, neuroscience, bioengineering
